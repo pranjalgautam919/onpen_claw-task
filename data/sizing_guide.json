@@ -1,0 +1,40 @@
+{
+  "size_conversion": {
+    "US_to_UK": {"2": "6", "4": "8", "6": "10", "8": "12", "10": "14", "12": "16", "14": "18", "16": "20"},
+    "US_to_EU": {"2": "32", "4": "34", "6": "36", "8": "38", "10": "40", "12": "42", "14": "44", "16": "46"}
+  },
+  "measurement_chart_inches": {
+    "2":  {"bust": "32", "waist": "24", "hips": "34"},
+    "4":  {"bust": "34", "waist": "26", "hips": "36"},
+    "6":  {"bust": "36", "waist": "28", "hips": "38"},
+    "8":  {"bust": "38", "waist": "30", "hips": "40"},
+    "10": {"bust": "40", "waist": "32", "hips": "42"},
+    "12": {"bust": "42", "waist": "34", "hips": "44"},
+    "14": {"bust": "44", "waist": "36", "hips": "46"},
+    "16": {"bust": "46", "waist": "38", "hips": "48"}
+  },
+  "fit_guidance": {
+    "fitted": "Runs close to body. If between sizes, we recommend sizing up for comfort.",
+    "relaxed": "Generous cut with ease through the body. True to size for most customers.",
+    "sleeveless": "Armhole cut may vary by vendor. Aurelia Couture tends to run slightly narrow in the shoulders.",
+    "long-sleeve": "Sleeve length is based on standard arm measurement. Petite customers may want to have sleeves hemmed.",
+    "off-shoulder": "Designed to sit below the collarbone. Ensure bust measurement matches — the neckline cannot be adjusted easily.",
+    "one-shoulder": "Asymmetric construction. Fit is most dependent on bust and torso length.",
+    "cape-sleeve": "Flowing sleeve requires no arm measurement. Focus on bust and waist fit.",
+    "halter": "Halter necklines work best for narrower shoulders. Size by bust measurement."
+  },
+  "vendor_sizing_notes": {
+    "Aurelia Couture": "Runs slightly small, especially in the bust and shoulders. Consider sizing up one size.",
+    "Nocturne": "True to size across all styles. Consistent fit between collections.",
+    "Bella Rosa": "True to size for relaxed styles. Fitted styles may run snug at the waist — check waist measurement.",
+    "Wanderlust": "Generous, relaxed fit. Some customers find they can size down in casual styles.",
+    "Glitz & Glam": "Bodycon and fitted styles run very true. Sequin and embellished fabrics have less stretch — size up if unsure.",
+    "Moonlit": "Consistent sizing. Modest styles have extra ease built in for coverage."
+  },
+  "general_tips": [
+    "If you are between two sizes, consider the fit type: size up for 'fitted', stay true for 'relaxed'.",
+    "Stretch fabrics (jersey, knit) are more forgiving than structured fabrics (taffeta, organza, satin).",
+    "For evening gowns, we recommend sizing by bust measurement first, then checking waist.",
+    "All measurements are taken with the garment laid flat. Double the bust/waist/hip numbers for circumference."
+  ]
+}

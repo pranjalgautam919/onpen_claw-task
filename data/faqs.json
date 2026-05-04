@@ -1,0 +1,78 @@
+{
+  "categories": {
+    "shipping": [
+      {
+        "q": "How long does shipping take?",
+        "a": "Standard shipping takes 5–7 business days. Expedited shipping (2–3 business days) is available at checkout for an additional fee."
+      },
+      {
+        "q": "Do you ship internationally?",
+        "a": "We currently ship within the United States. International shipping is not available at this time."
+      },
+      {
+        "q": "How much does shipping cost?",
+        "a": "Standard shipping is free on orders over $150. Orders under $150 have a flat $8.95 shipping fee. Expedited shipping is $14.95."
+      }
+    ],
+    "payment": [
+      {
+        "q": "What payment methods do you accept?",
+        "a": "We accept Visa, Mastercard, American Express, Discover, PayPal, and Apple Pay."
+      },
+      {
+        "q": "Can I use multiple payment methods?",
+        "a": "Currently, only one payment method can be used per order. Gift cards can be combined with a credit card."
+      },
+      {
+        "q": "Do you offer payment plans?",
+        "a": "Yes, we offer Afterpay and Klarna for orders over $50. Split your purchase into 4 interest-free payments."
+      }
+    ],
+    "returns": [
+      {
+        "q": "What is your return policy?",
+        "a": "Normal items can be returned within 14 days for a full refund. Sale items are returnable within 7 days for store credit only. Clearance items are final sale."
+      },
+      {
+        "q": "How do I start a return?",
+        "a": "Contact us with your order ID and we will provide a prepaid return label. Pack the item in its original packaging and drop it off at any carrier location."
+      },
+      {
+        "q": "Who pays for return shipping?",
+        "a": "The customer pays return shipping unless the item is defective. Defective items receive a prepaid return label."
+      },
+      {
+        "q": "Can I exchange an item instead of returning it?",
+        "a": "Yes, size exchanges are allowed if stock is available in the requested size. Contact us with your order ID and desired size."
+      }
+    ],
+    "products": [
+      {
+        "q": "Are your dresses true to size?",
+        "a": "Sizing varies by vendor and fit type. We recommend checking our sizing guide for measurements. Fitted styles may run snug — consider sizing up if between sizes."
+      },
+      {
+        "q": "What fabrics do you use?",
+        "a": "Fabrics vary by product — silk, satin, chiffon, cotton, jersey, velvet, tulle, lace, and more. Check individual product descriptions for fabric details."
+      },
+      {
+        "q": "Do you carry plus sizes?",
+        "a": "Our current size range is US 2–16. We are working on expanding our size range and welcome feedback."
+      }
+    ],
+    "account": [
+      {
+        "q": "How do I track my order?",
+        "a": "Provide your order ID and we can look up the current shipping status and tracking number for you."
+      },
+      {
+        "q": "Can I cancel my order?",
+        "a": "Orders can be cancelled within 1 hour of placement if they have not yet entered processing. After that, you will need to wait for delivery and initiate a return."
+      },
+      {
+        "q": "How do I contact customer support?",
+        "a": "You can reach us via this chat, WhatsApp, or email at support@boutique.com. Our support hours are Mon–Fri, 9 AM – 6 PM EST."
+      }
+    ]
+  }
+}

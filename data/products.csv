@@ -1,0 +1,101 @@
+product_id,title,vendor,price,compare_at_price,tags,sizes_available,stock_per_size,is_sale,is_clearance,bestseller_score
+P0001,Classic A-Line Midi Dress,Bella Rosa,137,180,"casual,relaxed,short-sleeve,relaxed","2,4,6,8,10,12","2,1,5,4,4,3",FALSE,FALSE,72
+P0002,Silk Wrap Evening Gown,Aurelia Couture,489,520,"evening,elegant,long-sleeve,fitted","4,6,8,10,12,14","2,2,7,1,1,2",FALSE,FALSE,88
+P0003,Satin Cocktail Dress,Nocturne,258,310,"cocktail,elegant,sleeveless,fitted","2,4,6,8,10","4,4,1,4,7",TRUE,FALSE,91
+P0004,Bohemian Maxi Dress,Wanderlust,175,175,"casual,modest,long-sleeve,relaxed","4,6,8,10,12,14,16","4,8,5,1,3,7,6",FALSE,FALSE,65
+P0005,Sequin Mini Party Dress,Glitz & Glam,220,280,"party,bold,sleeveless,fitted","2,4,6,8","5,3,4,6",TRUE,FALSE,78
+P0006,Modest Crepe Evening Gown,Aurelia Couture,395,450,"evening,modest,long-sleeve,fitted","6,8,10,12,14","2,2,7,2,6",TRUE,FALSE,85
+P0007,Floral Garden Party Dress,Bella Rosa,145,145,"casual,floral,short-sleeve,relaxed","4,6,8,10,12,14","6,5,1,8,2,7",FALSE,FALSE,70
+P0008,Velvet Formal Gown,Nocturne,309,380,"evening,elegant,long-sleeve,fitted","4,6,8,10,12,14,16","2,5,6,4,2,1,4",TRUE,FALSE,82
+P0009,Lace Bodice Midi Dress,Moonlit,198,198,"cocktail,elegant,sleeveless,fitted","2,4,6,8,10","5,2,4,2,7",FALSE,FALSE,74
+P0010,Ruched Bodycon Dress,Glitz & Glam,165,210,"party,bold,sleeveless,fitted","2,4,6,8,10","5,8,6,3,6",TRUE,FALSE,68
+P0011,Chiffon Bridesmaid Dress,Bella Rosa,189,189,"wedding,elegant,sleeveless,relaxed","4,6,8,10,12,14","6,4,5,2,3,4",FALSE,FALSE,76
+P0012,Cotton Sundress,Wanderlust,97,120,"casual,relaxed,sleeveless,relaxed","2,4,6,8,10,12,14,16","3,8,7,5,4,6,1,4",TRUE,FALSE,55
+P0013,Embroidered Tulle Gown,Aurelia Couture,352,420,"evening,modest,long-sleeve,fitted","6,8,10,12,14,16","1,6,7,5,2,4",TRUE,FALSE,89
+P0014,Pleated Satin Maxi,Nocturne,414,450,"evening,elegant,sleeveless,fitted","4,6,8,10,12,14","6,4,8,7,8,3",FALSE,FALSE,83
+P0015,Off-Shoulder Cocktail Dress,Glitz & Glam,298,350,"cocktail,bold,off-shoulder,fitted","6,8,10,12,14","5,3,4,5,7",TRUE,FALSE,80
+P0016,Modest High-Neck Gown,Moonlit,275,275,"evening,modest,long-sleeve,fitted","4,6,8,10,12,14","7,6,4,3,8,2",FALSE,FALSE,86
+P0017,Denim Shirt Dress,Wanderlust,109,140,"casual,relaxed,short-sleeve,relaxed","4,6,8,10,12,14,16","1,2,3,3,7,2,7",TRUE,FALSE,52
+P0018,Baroque Print Maxi,Aurelia Couture,376,400,"evening,bold,long-sleeve,relaxed","4,6,8,10,12,14,16","7,8,5,1,2,5,6",FALSE,FALSE,77
+P0019,Jersey Wrap Dress,Bella Rosa,131,160,"casual,modest,short-sleeve,relaxed","4,6,8,10,12,14,16","2,5,7,3,8,1,5",TRUE,FALSE,63
+P0020,Crystal-Embellished Gown,Nocturne,419,500,"evening,elegant,sleeveless,fitted","4,6,8,10,12,14,16","3,2,5,4,3,6,3",TRUE,FALSE,94
+P0021,Tiered Ruffle Midi,Moonlit,277,300,"cocktail,elegant,sleeveless,relaxed","2,4,6,8,10,12","1,6,8,1,2,6",FALSE,FALSE,71
+P0022,Organza Ball Gown,Aurelia Couture,437,500,"evening,elegant,sleeveless,fitted","6,8,10,12,14,16","5,4,1,4,2,2",FALSE,FALSE,92
+P0023,Wrap Front Jumpsuit,Wanderlust,259,290,"cocktail,modern,sleeveless,fitted","2,4,6,8,10","8,2,3,3,8",FALSE,FALSE,67
+P0024,Asymmetric Hem Dress,Glitz & Glam,275,330,"party,bold,one-shoulder,fitted","2,4,6,8,10,12,14,16","3,5,7,4,4,5,7,6",TRUE,FALSE,73
+P0025,Pearl-Detail Evening Gown,Nocturne,266,320,"evening,modest,long-sleeve,fitted","4,6,8,10,12","8,8,2,4,4",TRUE,FALSE,87
+P0026,Lace Overlay Maxi,Aurelia Couture,390,420,"evening,elegant,long-sleeve,fitted","6,8,10,12,14","2,6,1,4,4",FALSE,FALSE,84
+P0027,Puff Sleeve Midi,Bella Rosa,155,155,"casual,modest,puff-sleeve,relaxed","4,6,8,10,12,14","1,2,1,4,2,1",FALSE,FALSE,66
+P0028,Smocked Waist Sundress,Wanderlust,153,185,"casual,relaxed,sleeveless,relaxed","2,4,6,8,10,12","6,2,4,5,8,4",TRUE,FALSE,58
+P0029,Structured Tuxedo Dress,Nocturne,305,350,"cocktail,modern,long-sleeve,fitted","2,4,6,8,10","3,8,4,8,7",FALSE,FALSE,79
+P0030,Draped One-Shoulder Gown,Moonlit,330,380,"evening,elegant,one-shoulder,fitted","4,6,8,10,12","4,2,2,7,6",TRUE,FALSE,81
+P0031,Modest Abaya-Style Dress,Bella Rosa,311,340,"evening,modest,long-sleeve,relaxed","6,8,10,12,14","7,7,8,1,2",FALSE,FALSE,75
+P0032,Floral Embroidered Gown,Aurelia Couture,305,370,"evening,elegant,long-sleeve,fitted","6,8,10,12,14","1,7,6,2,4",TRUE,FALSE,90
+P0033,Striped Shirt Dress,Wanderlust,266,290,"casual,relaxed,short-sleeve,relaxed","4,6,8,10,12,14,16","4,4,8,3,7,3,5",FALSE,FALSE,54
+P0034,Metallic Sheath Dress,Glitz & Glam,239,290,"party,bold,sleeveless,fitted","2,4,6,8,10","8,4,2,8,2",TRUE,FALSE,69
+P0035,Chambray Shift Dress,Wanderlust,96,120,"casual,relaxed,short-sleeve,relaxed","2,4,6,8,10,12,14,16","1,1,2,4,3,7,8,8",TRUE,TRUE,45
+P0036,Modest Lace Evening Gown,Moonlit,289,340,"evening,modest,long-sleeve,fitted","4,6,8,10,12,14","4,7,1,3,7,1",TRUE,FALSE,83
+P0037,Ponte Fit-and-Flare,Bella Rosa,168,190,"casual,elegant,short-sleeve,fitted","4,6,8,10,12","7,5,8,5,7",FALSE,FALSE,62
+P0038,Linen Midi Dress,Wanderlust,144,170,"casual,relaxed,sleeveless,relaxed","4,6,8,10,12,14","8,3,4,5,4,1",TRUE,FALSE,57
+P0039,Beaded Illusion Gown,Aurelia Couture,430,500,"evening,elegant,sleeveless,fitted","6,8,10,12","1,6,1,1",FALSE,FALSE,93
+P0040,Utility Shirt Dress,Wanderlust,204,230,"casual,modern,long-sleeve,relaxed","4,6,8,10,12,14,16","8,3,1,2,3,2,2",FALSE,FALSE,56
+P0041,Ruffle Trim Mini Dress,Glitz & Glam,122,155,"party,bold,sleeveless,fitted","2,4,6,8,10,12","4,7,2,4,1,2",TRUE,TRUE,48
+P0042,Modest Kaftan Dress,Moonlit,235,260,"evening,modest,long-sleeve,relaxed","6,8,10,12,14,16","7,6,5,4,6,4",FALSE,FALSE,72
+P0043,Pleated Chiffon Midi,Bella Rosa,242,270,"cocktail,elegant,sleeveless,relaxed","4,6,8,10,12","5,7,3,5,8",FALSE,FALSE,74
+P0044,Embellished Cape Gown,Nocturne,346,400,"evening,elegant,cape-sleeve,fitted","4,6,8,10,12","6,2,1,8,2",FALSE,FALSE,86
+P0045,Tiered Cotton Maxi,Wanderlust,183,210,"casual,modest,sleeveless,relaxed","4,6,8,10,12,14","2,4,5,3,6,2",TRUE,FALSE,60
+P0046,Modest Silk Wrap Gown,Aurelia Couture,365,410,"evening,modest,long-sleeve,fitted","6,8,10,12,14","4,6,5,3,8",FALSE,FALSE,88
+P0047,Twist-Front Cocktail Dress,Glitz & Glam,195,240,"cocktail,bold,sleeveless,fitted","2,4,6,8,10","5,1,5,2,3",TRUE,FALSE,70
+P0048,Eyelet Lace Sundress,Wanderlust,102,130,"casual,relaxed,sleeveless,relaxed","4,6,8,10,12,14","5,2,2,3,5,5",TRUE,TRUE,42
+P0049,Basic Tee Dress,Bella Rosa,71,90,"casual,relaxed,short-sleeve,relaxed","2,4,6,8,10,12,14,16","4,6,4,5,8,5,1,2",TRUE,TRUE,35
+P0050,Velvet Burnout Midi,Moonlit,265,310,"cocktail,elegant,long-sleeve,fitted","4,6,8,10,12","7,5,1,1,6",TRUE,FALSE,76
+P0051,Modest Pleated Maxi Gown,Bella Rosa,285,320,"evening,modest,long-sleeve,relaxed","6,8,10,12,14","2,6,3,2,6",FALSE,FALSE,80
+P0052,Tulle Skirt Midi Dress,Glitz & Glam,210,250,"party,elegant,sleeveless,fitted","2,4,6,8,10","4,5,6,4,5",TRUE,FALSE,71
+P0053,Baroque Jacquard Gown,Nocturne,343,400,"evening,elegant,long-sleeve,fitted","6,8,10,12,14","1,1,1,6,2",FALSE,FALSE,85
+P0054,Ribbed Knit Midi,Wanderlust,187,210,"casual,modern,long-sleeve,fitted","2,4,6,8,10,12","5,1,3,5,5,2",FALSE,FALSE,59
+P0055,Cutout Detail Cocktail,Glitz & Glam,255,300,"cocktail,bold,sleeveless,fitted","2,4,6,8,10","4,2,1,3,3",TRUE,FALSE,73
+P0056,Modest Chiffon A-Line Gown,Moonlit,295,340,"evening,modest,long-sleeve,relaxed","4,6,8,10,12,14","1,3,2,6,2,6",FALSE,FALSE,82
+P0057,Polka Dot Wrap Dress,Bella Rosa,155,180,"casual,retro,short-sleeve,relaxed","4,6,8,10,12","1,3,5,4,5",TRUE,FALSE,64
+P0058,Sequin Column Gown,Nocturne,326,380,"evening,bold,sleeveless,fitted","4,6,8,10,12","6,2,2,2,2",FALSE,FALSE,87
+P0059,Ruffled Hem Midi,Wanderlust,208,230,"casual,relaxed,sleeveless,relaxed","4,6,8,10,12","4,1,2,6,3",FALSE,FALSE,61
+P0060,Mesh Panel Evening Gown,Glitz & Glam,310,370,"evening,bold,sleeveless,fitted","2,4,6,8,10,12","4,6,6,2,3,2",TRUE,FALSE,77
+P0061,Pintuck Cotton Dress,Wanderlust,151,175,"casual,modest,short-sleeve,relaxed","4,6,8,10,12,14","6,1,4,1,4,2",TRUE,FALSE,53
+P0062,Faux Leather Midi Dress,Moonlit,172,200,"party,modern,sleeveless,fitted","2,4,6,8,10","2,4,3,3,2",FALSE,FALSE,66
+P0063,Gathered Waist Maxi,Bella Rosa,173,200,"casual,modest,long-sleeve,relaxed","4,6,8,10,12,14","2,1,6,2,4,3",TRUE,FALSE,63
+P0064,Scallop Edge Shift Dress,Nocturne,205,240,"cocktail,elegant,short-sleeve,relaxed","4,6,8,10,12","3,1,3,3,6",FALSE,FALSE,68
+P0065,Cape Sleeve Evening Gown,Aurelia Couture,319,380,"evening,elegant,cape-sleeve,fitted","6,8,10,12,14","5,4,6,5,3",FALSE,FALSE,86
+P0066,Blouson Sleeve Midi,Moonlit,277,310,"cocktail,elegant,long-sleeve,relaxed","2,4,6,8,10,12","1,1,3,2,5,3",FALSE,FALSE,72
+P0067,Corset Detail Gown,Nocturne,289,340,"evening,bold,sleeveless,fitted","4,6,8,10,12","1,1,5,4,3",FALSE,FALSE,81
+P0068,Smocked Bodice Midi,Bella Rosa,253,280,"casual,elegant,sleeveless,relaxed","4,6,8,10,12","6,3,4,5,5",FALSE,FALSE,67
+P0069,Clearance Basic Shift,Wanderlust,75,120,"casual,relaxed,sleeveless,relaxed","4,6,8,10,12,14,16","1,4,5,2,3,1,6",FALSE,TRUE,30
+P0070,Brocade Evening Gown,Aurelia Couture,330,390,"evening,elegant,long-sleeve,fitted","2,4,6,8,10,12","4,1,5,5,6,6",FALSE,FALSE,84
+P0071,Modest Velvet Maxi,Moonlit,248,290,"evening,modest,long-sleeve,fitted","4,6,8,10,12,14","6,6,6,2,3,4",TRUE,FALSE,79
+P0072,Casual Knit Wrap Dress,Wanderlust,193,220,"casual,relaxed,long-sleeve,relaxed","4,6,8,10,12,14,16","1,6,3,5,3,6,1",FALSE,FALSE,58
+P0073,Feather Trim Cocktail,Glitz & Glam,300,350,"cocktail,bold,sleeveless,fitted","4,6,8,10,12,14","6,3,5,3,6,4",FALSE,FALSE,75
+P0074,Modest Empire Waist Gown,Bella Rosa,265,300,"evening,modest,long-sleeve,relaxed","6,8,10,12,14","3,4,6,3,5",FALSE,FALSE,78
+P0075,Taffeta Ball Gown,Aurelia Couture,364,430,"evening,elegant,sleeveless,fitted","4,6,8,10,12,14,16","2,2,4,6,4,6,6",FALSE,FALSE,91
+P0076,Modest Jersey Maxi,Wanderlust,158,180,"casual,modest,long-sleeve,relaxed","4,6,8,10,12,14,16","2,5,5,3,4,5,1",TRUE,FALSE,61
+P0077,Draped Cowl Neck Gown,Nocturne,335,380,"evening,elegant,sleeveless,fitted","4,6,8,10,12","3,3,2,4,5",FALSE,FALSE,83
+P0078,Clearance Printed Shift,Wanderlust,95,150,"casual,retro,short-sleeve,relaxed","4,6,8,10,12,14","5,6,3,4,4,4",FALSE,TRUE,32
+P0079,Embroidered Boho Maxi,Bella Rosa,336,370,"evening,modest,long-sleeve,relaxed","6,8,10,12,14","6,2,5,4,6",FALSE,FALSE,76
+P0080,Clearance Cotton Shift,Wanderlust,53,90,"casual,relaxed,short-sleeve,relaxed","4,6,8,10,12","2,6,1,3,5",FALSE,TRUE,28
+P0081,Lace-Trim Satin Gown,Moonlit,295,340,"evening,elegant,sleeveless,fitted","6,8,10,12,14","6,6,5,3,1",FALSE,FALSE,82
+P0082,Modest Georgette Maxi,Bella Rosa,228,260,"evening,modest,long-sleeve,relaxed","6,8,10,12,14","2,6,3,2,2",FALSE,FALSE,74
+P0083,One-Shoulder Draped Midi,Glitz & Glam,205,250,"cocktail,bold,one-shoulder,fitted","2,4,6,8,10","2,1,1,2,4",TRUE,FALSE,70
+P0084,Modest Tiered Evening Gown,Moonlit,278,320,"evening,modest,long-sleeve,relaxed","4,6,8,10,12,14","5,1,4,4,6,5",FALSE,FALSE,80
+P0085,Pleated Skirt Midi,Bella Rosa,273,300,"cocktail,elegant,sleeveless,relaxed","4,6,8,10,12","2,6,6,4,4",FALSE,FALSE,69
+P0086,Structured Mermaid Gown,Nocturne,316,370,"evening,elegant,sleeveless,fitted","4,6,8,10,12,14,16","4,2,2,6,6,1,1",FALSE,FALSE,90
+P0087,Ruched Side Midi,Glitz & Glam,225,270,"cocktail,bold,sleeveless,fitted","4,6,8,10,12","4,2,2,6,5",TRUE,FALSE,67
+P0088,Modest Crepe Jumpsuit,Moonlit,245,280,"cocktail,modest,long-sleeve,fitted","4,6,8,10,12","4,1,5,2,1",FALSE,FALSE,73
+P0089,Textured Knit Dress,Wanderlust,135,160,"casual,modern,long-sleeve,relaxed","4,6,8,10,12,14","4,2,4,6,5,5",TRUE,FALSE,56
+P0090,Sequin-Panel Evening Gown,Glitz & Glam,349,400,"evening,bold,sleeveless,fitted","4,6,8,10,12","5,3,4,5,6",FALSE,FALSE,79
+P0091,Modest Satin Column Gown,Aurelia Couture,345,400,"evening,modest,long-sleeve,fitted","6,8,10,12,14","5,4,5,4,2",FALSE,FALSE,87
+P0092,Bamboo Blend Casual Dress,Wanderlust,118,140,"casual,relaxed,short-sleeve,relaxed","4,6,8,10,12,14","6,4,4,3,2,6",TRUE,FALSE,50
+P0093,Layered Tulle Evening Gown,Moonlit,237,280,"evening,elegant,sleeveless,fitted","2,4,6,8,10,12,14","3,5,4,6,2,3,4",TRUE,FALSE,78
+P0094,Clearance Jersey Dress,Wanderlust,74,120,"casual,relaxed,short-sleeve,relaxed","4,6,8,10,12","1,6,3,2,3",FALSE,TRUE,33
+P0095,Modest Embroidered Tunic,Bella Rosa,199,230,"casual,modest,long-sleeve,relaxed","6,8,10,12,14","3,3,5,1,2",FALSE,FALSE,65
+P0096,Beaded Halter Gown,Nocturne,299,350,"evening,bold,halter,fitted","4,6,8,10,12","2,2,4,6,2",FALSE,FALSE,84
+P0097,Peplum Detail Midi,Glitz & Glam,184,220,"cocktail,modern,sleeveless,fitted","2,4,6,8,10","6,2,1,4,4",TRUE,FALSE,66
+P0098,Modest Wrap Maxi Gown,Moonlit,268,310,"evening,modest,long-sleeve,relaxed","4,6,8,10,12,14","3,5,4,4,1,2",TRUE,FALSE,81
+P0099,Printed Chiffon Midi,Bella Rosa,209,240,"casual,floral,sleeveless,relaxed","4,6,8,10,12,14","4,4,5,6,1,5",FALSE,FALSE,64
+P0100,Modest Beaded Evening Gown,Aurelia Couture,410,480,"evening,modest,long-sleeve,fitted","6,8,10,12,14","4,4,1,3,3",FALSE,FALSE,95
