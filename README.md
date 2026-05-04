@@ -162,6 +162,4 @@ Return-window math uses a fixed **reference date** in `src/config.py` (`CURRENT_
 
 ---
 
-## License
 
-MIT
